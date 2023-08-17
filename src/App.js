@@ -14,22 +14,7 @@
 // export default App
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//notes app
 import React from 'react'
 import Todo from './component/todoreact/todo'
 
